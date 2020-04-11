@@ -19,5 +19,10 @@ python -m pip install -r requirements.txt
 
 - Running dashboard:
 ```sh
-streamlit run dataset_knn.py
+streamlit run dashboard.py
+```
+
+- Running notebook:
+```sh
+jupyter notebook notebook.ipynb
 ```
