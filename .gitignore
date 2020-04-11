@@ -1,5 +1,5 @@
 .vscode
-.ipynb_checkpoints
+.ipynb_checkpoints/*
 Database_KNN
 env
 __pycache__
